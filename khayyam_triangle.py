@@ -1,4 +1,4 @@
-n = int(input('how many row of the khayyam triangle? '))
+n = int(input('how many row of khayyam triangle? '))
 
 khayyam_triangle = [[1 for i in range(n)] 
                       for j in range(n)]
